@@ -3,16 +3,16 @@ class Script(object):
 
 My name is <a href=https://t.me/{}>{}</a>!
 
-<b>I can provide Movies. A Telegram Auto Filter Bot. Its Easy To Use Me :)
+<b>I can provide Movies. I only Work for Lucifer Inc. Its Easy To Use Me :)
 
-Just Add me to Your Group As Admin, Hit The Help Button For More Info..</b>"""
+ My Creator @TheRaj71_bot  .</b>"""
 
     HELP_TXT = """Hey {}
 
 <b>Here Is The Help For My Commands.</b>"""
 
     ABOUT_TXT = """<b>➥ My name: {}
-➥ Creator: <a href='https://t.me/zautekm'>Zaute Km</a>
+➥ Creator: <a href='https://t.me/Soul_reaper71'>Mr DArk</a>
 ➥ Library: <a href='https://docs.pyrogram.org/'>Pyrogram</a>
 ➥ Language: Python 𝟹
 ➥ Data Base: <a href='https://www.mongodb.com/'>MongoDB</a>
@@ -21,13 +21,13 @@ Just Add me to Your Group As Admin, Hit The Help Button For More Info..</b>"""
 
     SOURCE_TXT = """<b>Source:</b>
 IMDb is a Open source project.
-Source: <a href='https://github.com/josprojects/tgmoviebot'>GitHub - Click here 👈</a>
+Source: <a href='https://github.com/paradox714'>GitHub - Click here 👈</a>
 
 <b>DEVS:</b>
-- <a href='https://t.me/josprojects'>Jos Projects</a>
+- <a href='https://t.me/Soul_reaper71'>Mr Dark</a>
 
 <b>SUPPORT GROUP</b>
-- <a href='https://t.me/+y53tWFUw6Q43NzE9'>Jos Movie Club</a>"""
+- <a href='https://t.me/+H5aOBZUe3j0xMzA1'>Digital Paradox</a>"""
 
     MANUALFILTER_TXT = """Help: <b>Filters</b>
 
@@ -84,7 +84,7 @@ You can also customise the contents of your message with contextual data. For ex
 1. Make me the admin of your channel if it's private.
 2. Make sure that your channel does not contains camrips, porn and fake files.
 3. Forward the last message to me with quotes.
- I'll add all the files in that channel to my db."""
+ I'll add all the files in that channel to my db. @TheRaj71_bot my creator"""
 
     CONNECTION_TXT = """Help: <b>Connections</b>
 
@@ -167,7 +167,7 @@ Translate texts to a specific language!
 
     SEARCH_TXT = """Help: <b>IMDb</b>
 
-Search many things without leaving telegram!
+Search many things without leaving telegram!by Lucifer Inc
 
 <b>Commands and Usage:</b>
 • /imdb  - get the film information from IMDb source.
@@ -251,7 +251,7 @@ This module only works for my admins
 
     FORCESUB_TXT = """**♦️ READ THIS INSTRUCTION ♦️**
 
-__🗣 In Order To Get The Movie Requested By You in Our Groups, You Will Have To Join Our Official Channel First. After That, Try Accessing That Movie Again From Our Group. I'll Send You That Movie Privately 🙈__
+__🗣 Created By - @TheRaj71_bot,  In Order To Get The Movie Requested By You in Our Groups, You Will Have To Join Our Official Channel First. After That, Try Accessing That Movie Again From Our Group. I'll Send You That Movie Privately 🙈__
 
 **👇 JOIN THIS CHANNEL & TRY AGAIN 👇**"""
 
